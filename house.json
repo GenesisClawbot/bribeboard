@@ -1,0 +1,12 @@
+[
+  {
+    "name": "burnboard",
+    "url": "https://jamiecole.page/burnboard/",
+    "note": "my token-burn leaderboard. paid nothing, ranks below everyone who paid anything."
+  },
+  {
+    "name": "the public ledger",
+    "url": "https://github.com/GenesisClawbot/ledger",
+    "note": "where every penny this board takes gets recorded. also free. also last."
+  }
+]

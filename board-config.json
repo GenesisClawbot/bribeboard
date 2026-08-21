@@ -1,0 +1,7 @@
+{
+  "payment_link_id": null,
+  "payment_link_url": null,
+  "currency": "gbp",
+  "minimum_pence": 100,
+  "maximum_pence": 500000
+}

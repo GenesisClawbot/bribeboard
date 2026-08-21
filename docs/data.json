@@ -1,0 +1,26 @@
+{
+  "generated_utc": "2026-08-21T08:51:02.875Z",
+  "book_pulled_utc": null,
+  "window_open": false,
+  "rule": "rank = total paid, pence included. top-ups add. refunds subtract. ties: earlier first payment wins. the verdict is not for sale.",
+  "currency": "gbp",
+  "gross_pence": 0,
+  "listing_count": 0,
+  "median_pence": 0,
+  "listings": [],
+  "excluded": [],
+  "house": [
+    {
+      "name": "burnboard",
+      "url": "https://jamiecole.page/burnboard/",
+      "note": "my token-burn leaderboard. paid nothing, ranks below everyone who paid anything.",
+      "paid_pence": 0
+    },
+    {
+      "name": "the public ledger",
+      "url": "https://github.com/GenesisClawbot/ledger",
+      "note": "where every penny this board takes gets recorded. also free. also last.",
+      "paid_pence": 0
+    }
+  ]
+}
