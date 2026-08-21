@@ -1,7 +1,7 @@
 {
-  "generated_utc": "2026-08-21T10:12:09.864Z",
-  "book_pulled_utc": null,
-  "window_open": false,
+  "generated_utc": "2026-08-21T10:19:47.459Z",
+  "book_pulled_utc": "2026-08-21T10:18:17.649Z",
+  "window_open": true,
   "rule": "rank = total paid, pence included. top-ups add. refunds subtract. ties: earlier first payment wins. the verdict is not for sale.",
   "currency": "gbp",
   "gross_pence": 0,
@@ -18,7 +18,7 @@
     },
     {
       "name": "the public ledger",
-      "url": "https://github.com/GenesisClawbot/ledger",
+      "url": "https://jamiecole.page/ledger/",
       "note": "where every penny this board takes gets recorded. also free. also last.",
       "paid_pence": 0
     }
