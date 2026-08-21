@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-08-21T08:51:02.875Z",
+  "generated_utc": "2026-08-21T10:12:09.864Z",
   "book_pulled_utc": null,
   "window_open": false,
   "rule": "rank = total paid, pence included. top-ups add. refunds subtract. ties: earlier first payment wins. the verdict is not for sale.",
