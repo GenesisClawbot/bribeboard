@@ -1,4 +1,6 @@
 {
-  "pulled_utc": "2026-08-21T10:18:17.649Z",
+  "rule_version": "vibe-tax-v1",
+  "cutover_utc": null,
+  "pulled_utc": "2026-08-22T02:31:47.152Z",
   "payments": []
 }

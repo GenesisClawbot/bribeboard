@@ -1,26 +1,82 @@
 {
-  "generated_utc": "2026-08-21T10:19:47.459Z",
-  "book_pulled_utc": "2026-08-21T10:18:17.649Z",
-  "window_open": true,
-  "rule": "rank = total paid, pence included. top-ups add. refunds subtract. ties: earlier first payment wins. the verdict is not for sale.",
+  "rule_version": "vibe-tax-v1",
+  "generated_utc": "2026-08-22T06:50:55.400Z",
+  "book_pulled_utc": "2026-08-22T02:31:47.152Z",
+  "cutover_utc": null,
+  "window_open": false,
+  "rule": "One paid session buys one moderated comic filing. Register order is chronological. Payment amount never changes position or area.",
   "currency": "gbp",
-  "gross_pence": 0,
-  "listing_count": 0,
-  "median_pence": 0,
-  "listings": [],
+  "totals": {
+    "gross_pence": 0,
+    "refunded_pence": 0,
+    "disputed_pence": 0,
+    "retained_pence": 0,
+    "valid_retained_pence": 0,
+    "certificate_count": 0,
+    "filing_count": 0,
+    "distinct_project_count": 0
+  },
+  "filings": [],
+  "pending": [],
   "excluded": [],
   "house": [
     {
+      "code": "H-001",
       "name": "burnboard",
       "url": "https://jamiecole.page/burnboard/",
-      "note": "my token-burn leaderboard. paid nothing, ranks below everyone who paid anything.",
-      "paid_pence": 0
+      "note": "House example. It paid nothing and counts in no demand or money statistic.",
+      "paid_pence": 0,
+      "certificate_url": "filings/h-001/"
     },
     {
+      "code": "H-002",
       "name": "the public ledger",
       "url": "https://jamiecole.page/ledger/",
-      "note": "where every penny this board takes gets recorded. also free. also last.",
-      "paid_pence": 0
+      "note": "House example. It paid nothing and shows where real receipts are recorded.",
+      "paid_pence": 0,
+      "certificate_url": "filings/h-002/"
+    }
+  ],
+  "statutes": [
+    {
+      "code": "SECTION 1",
+      "title": "UNLICENSED SHIPPING",
+      "fictional": true
+    },
+    {
+      "code": "SECTION 7",
+      "title": "POSSESSION OF A CUSTOM DOMAIN WITH INTENT TO LAUNCH",
+      "fictional": true
+    },
+    {
+      "code": "SECTION 13",
+      "title": "EXCESSIVE OPTIMISM",
+      "fictional": true
+    },
+    {
+      "code": "SECTION 21",
+      "title": "OPERATING A BUTTON BEFORE REVENUE",
+      "fictional": true
+    },
+    {
+      "code": "SECTION 37",
+      "title": "FAILURE TO REMAIN A WEEKEND PROJECT",
+      "fictional": true
+    },
+    {
+      "code": "SECTION 42",
+      "title": "CROSS-BORDER GRADIENT ACTIVITY",
+      "fictional": true
+    },
+    {
+      "code": "SECTION 69",
+      "title": "UNDECLARED MICRO-SAAS ACTIVITY",
+      "fictional": true
+    },
+    {
+      "code": "SECTION 404",
+      "title": "ATTEMPTED PRODUCT-MARKET FIT",
+      "fictional": true
     }
   ]
 }

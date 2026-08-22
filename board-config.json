@@ -1,6 +1,9 @@
 {
   "payment_link_id": "plink_1U6pV17dVu3KiOEDOYEusebG",
   "payment_link_url": "https://buy.stripe.com/bJeaERcN511j5w35tw9ws0D",
+  "product_id": "prod_V73ce2UAxtuFxp",
+  "price_id": "price_1U6pV17dVu3KiOEDb7YXxNio",
+  "window_open": false,
   "currency": "gbp",
   "minimum_pence": 100,
   "maximum_pence": 500000

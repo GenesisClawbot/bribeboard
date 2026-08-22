@@ -1,12 +1,14 @@
 [
   {
+    "code": "H-001",
     "name": "burnboard",
     "url": "https://jamiecole.page/burnboard/",
-    "note": "my token-burn leaderboard. paid nothing, ranks below everyone who paid anything."
+    "note": "House example. It paid nothing and counts in no demand or money statistic."
   },
   {
+    "code": "H-002",
     "name": "the public ledger",
     "url": "https://jamiecole.page/ledger/",
-    "note": "where every penny this board takes gets recorded. also free. also last."
+    "note": "House example. It paid nothing and shows where real receipts are recorded."
   }
 ]
